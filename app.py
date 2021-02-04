@@ -60,7 +60,7 @@ def predict():
         # handle any other exception:
         LOG.info("JSON payload: %s json_payload")
         logging.exception(e)
-        return "Model not loaded"
+        return "Model not loaded!"
 
     json_payload = request.json
     LOG.info("JSON payload: %s json_payload")
