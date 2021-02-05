@@ -17,7 +17,7 @@ https://github.com/lgao066/udacity-project-two/blob/main/project-management.xlsx
 ## Instructions
 
 * Architectural Diagram
-https://user-images.githubusercontent.com/13649985/107021370-ea9b3780-6808-11eb-8558-1765ee543a75.jpg
+![Architectural Diagram](https://user-images.githubusercontent.com/13649985/107021370-ea9b3780-6808-11eb-8558-1765ee543a75.jpg)
 
 * Project running on Azure App Service
 Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity-project-two"
