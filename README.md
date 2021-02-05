@@ -43,7 +43,7 @@ Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity
 
 * Successful prediction from deployed flask app in Azure Cloud Shell. 
 The output should look similar to this:
-https://user-images.githubusercontent.com/13649985/107022384-31d5f800-680a-11eb-95ed-6b5bae735f65.jpg
+![5](https://user-images.githubusercontent.com/13649985/107022384-31d5f800-680a-11eb-95ed-6b5bae735f65.jpg)
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
