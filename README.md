@@ -5,18 +5,17 @@ This is the formal project for Udacity project two "building a CI/CD pipeline"
 
 # Overview
 
-<TODO: complete this with an overview of your project>
+This is the formal project for Udacity CI/CD pipeline practice
 
 ## Project Plan
-<TODO: Project Plan
 
 * A link to a Trello board for the project
+https://trello.com/b/4k5xOTAX/weekly-sprints
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
