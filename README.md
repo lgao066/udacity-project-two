@@ -11,7 +11,8 @@ This is the formal project for Udacity CI/CD pipeline practice
 
 * A link to a Trello board for the project
 https://trello.com/b/4k5xOTAX/weekly-sprints
-* A link to a spreadsheet that includes the original and final project plan>
+* A link to a spreadsheet that includes the original and final project plan
+https://github.com/lgao066/udacity-project-two/blob/main/project-management.xlsx
 
 ## Instructions
 
@@ -20,8 +21,12 @@ https://trello.com/b/4k5xOTAX/weekly-sprints
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
+Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity-project-two"
 
 * Project cloned into Azure Cloud Shell
+1. Open Azure Cloud Shell;
+2. Create virtual envrionment in Cloud Shell, such as "python3 -m venv ~/.venv";
+3. Activate the virtual envrionment, such as "source ~/.venv/bin/activate";
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
