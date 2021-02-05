@@ -27,8 +27,9 @@ Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity
 1. Open Azure Cloud Shell;
 2. Create virtual envrionment in Cloud Shell, such as "python3 -m venv ~/.venv";
 3. Activate the virtual envrionment, such as "source ~/.venv/bin/activate";
-![1](https://user-images.githubusercontent.com/13649985/107021375-ecfd9180-6808-11eb-8117-e514e7d5805c.jpg)
 ![2](https://user-images.githubusercontent.com/13649985/107021396-f129af00-6808-11eb-9006-d9918e36f2ce.jpg)
+4. Project cloned into Azure Cloud Shell
+![1](https://user-images.githubusercontent.com/13649985/107021375-ecfd9180-6808-11eb-8117-e514e7d5805c.jpg)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
