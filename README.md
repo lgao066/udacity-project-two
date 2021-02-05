@@ -36,12 +36,13 @@ Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity
 ![3](https://user-images.githubusercontent.com/13649985/107021398-f25adc00-6808-11eb-867a-70373c348038.jpg)
 
 * Successful deploy of the project in Azure Pipelines.
-![4](https://user-images.githubusercontent.com/13649985/107021402-f25adc00-6808-11eb-9827-6ea9520fef98.jpg)
+![4](https://user-images.githubusercontent.com/13649985/107022241-03581d00-680a-11eb-985a-4492f7bc3265.jpg)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
 * Successful prediction from deployed flask app in Azure Cloud Shell. 
 The output should look similar to this:
+https://user-images.githubusercontent.com/13649985/107022384-31d5f800-680a-11eb-95ed-6b5bae735f65.jpg
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
@@ -49,13 +50,14 @@ Port: 443
 {"prediction":[20.35373177134412]}
 ```
 
-* Output of streamed log files from deployed application
-
 > 
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+This project can be enhanced by many approaches:
+1. Add more comprehensive testing
+2. Prediction model can be more sophisticated
+3. Infrastrcture depolyment should be automated
 
 ## Demo 
 
