@@ -32,6 +32,7 @@ Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity
 <img src="https://user-images.githubusercontent.com/13649985/107021375-ecfd9180-6808-11eb-8117-e514e7d5805c.jpg" height="150" />
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+<img src="https://user-images.githubusercontent.com/13649985/107112521-20015d00-68bd-11eb-9839-ae0fa79dd885.jpg" height="150" />
 
 * Output of a test run
 <img src="https://user-images.githubusercontent.com/13649985/107021398-f25adc00-6808-11eb-867a-70373c348038.jpg" height="150" />
