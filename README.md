@@ -51,6 +51,10 @@ Port: 443
 {"prediction":[20.35373177134412]}
 ```
 
+* View the stream of your application. 
+<img src="https://user-images.githubusercontent.com/13649985/107107672-79569580-6897-11eb-868b-0666cb7517fd.jpg" height="200" />
+
+
 > 
 
 ## Enhancements
