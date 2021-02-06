@@ -56,6 +56,10 @@ Port: 443
 * View the stream of your application. 
 <img src="https://user-images.githubusercontent.com/13649985/107107672-79569580-6897-11eb-868b-0666cb7517fd.jpg" height="200" />
 
+* Load test the Web App using Locust
+<img src="https://user-images.githubusercontent.com/13649985/107115375-200b5800-68d1-11eb-8369-44aa1b1447c0.jpg" height="150" />
+<img src="https://user-images.githubusercontent.com/13649985/107115377-24d00c00-68d1-11eb-8233-d44ceb7af3bb.jpg" height="150" />
+
 
 > 
 
