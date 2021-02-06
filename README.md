@@ -17,7 +17,7 @@ https://github.com/lgao066/udacity-project-two/blob/main/project-management.xlsx
 ## Instructions
 
 * Architectural Diagram
-<img src="https://user-images.githubusercontent.com/13649985/107021370-ea9b3780-6808-11eb-8558-1765ee543a75.jpg" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/13649985/107021370-ea9b3780-6808-11eb-8558-1765ee543a75.jpg" width="400" height="300" />
 
 * Project running on Azure App Service
 
@@ -27,23 +27,23 @@ Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity
 1. Open Azure Cloud Shell;
 2. Create virtual envrionment in Cloud Shell, such as "python3 -m venv ~/.venv";
 3. Activate the virtual envrionment, such as "source ~/.venv/bin/activate";
-![2](https://user-images.githubusercontent.com/13649985/107021396-f129af00-6808-11eb-9006-d9918e36f2ce.jpg)
+<img src="https://user-images.githubusercontent.com/13649985/107021396-f129af00-6808-11eb-9006-d9918e36f2ce.jpg" width="400" height="300" />
 4. Project cloned into Azure Cloud Shell
-![1](https://user-images.githubusercontent.com/13649985/107021375-ecfd9180-6808-11eb-8117-e514e7d5805c.jpg =250x)
+<img src="https://user-images.githubusercontent.com/13649985/107021375-ecfd9180-6808-11eb-8117-e514e7d5805c.jpg" width="400" height="300" />
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
 * Output of a test run
-![3](https://user-images.githubusercontent.com/13649985/107021398-f25adc00-6808-11eb-867a-70373c348038.jpg =250x)
+<img src="https://user-images.githubusercontent.com/13649985/107021398-f25adc00-6808-11eb-867a-70373c348038.jpg" width="400" height="300" />
 
 * Successful deploy of the project in Azure Pipelines.
-![4](https://user-images.githubusercontent.com/13649985/107022241-03581d00-680a-11eb-985a-4492f7bc3265.jpg =250x)
+<img src="https://user-images.githubusercontent.com/13649985/107022241-03581d00-680a-11eb-985a-4492f7bc3265.jpg" width="400" height="300" />
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
 * Successful prediction from deployed flask app in Azure Cloud Shell. 
 The output should look similar to this:
-![5](https://user-images.githubusercontent.com/13649985/107022384-31d5f800-680a-11eb-95ed-6b5bae735f65.jpg =250x)
+<img src="https://user-images.githubusercontent.com/13649985/107022384-31d5f800-680a-11eb-95ed-6b5bae735f65.jpg" width="400" height="300" />
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
