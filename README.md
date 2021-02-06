@@ -32,6 +32,8 @@ Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity
 <img src="https://user-images.githubusercontent.com/13649985/107021375-ecfd9180-6808-11eb-8117-e514e7d5805c.jpg" height="150" />
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+* A successful GitHub build test run
+<img src="https://user-images.githubusercontent.com/13649985/107112521-20015d00-68bd-11eb-9839-ae0fa79dd885.jpg" height="300" />
 
 * Output of a test run
 <img src="https://user-images.githubusercontent.com/13649985/107021398-f25adc00-6808-11eb-867a-70373c348038.jpg" height="150" />
@@ -54,6 +56,10 @@ Port: 443
 * View the stream of your application. 
 <img src="https://user-images.githubusercontent.com/13649985/107107672-79569580-6897-11eb-868b-0666cb7517fd.jpg" height="200" />
 
+* Load test the Web App using Locust
+<img src="https://user-images.githubusercontent.com/13649985/107115375-200b5800-68d1-11eb-8369-44aa1b1447c0.jpg" height="150" />
+<img src="https://user-images.githubusercontent.com/13649985/107115377-24d00c00-68d1-11eb-8233-d44ceb7af3bb.jpg" height="150" />
+
 
 > 
 
@@ -65,5 +71,4 @@ This project can be enhanced by many approaches:
 3. Infrastrcture depolyment should be automated
 
 ## Demo 
-
-<TODO: Add link Screencast on YouTube>
+A quick demo of what I have achieved https://youtu.be/ZxzgjCQ-J5E
