@@ -17,7 +17,7 @@ https://github.com/lgao066/udacity-project-two/blob/main/project-management.xlsx
 ## Instructions
 
 * Architectural Diagram
-![0](https://user-images.githubusercontent.com/13649985/107021370-ea9b3780-6808-11eb-8558-1765ee543a75.jpg){:height="36px" width="36px"}
+<img src="https://user-images.githubusercontent.com/13649985/107021370-ea9b3780-6808-11eb-8558-1765ee543a75.jpg" width="200" height="200" />
 
 * Project running on Azure App Service
 
