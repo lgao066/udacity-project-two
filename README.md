@@ -27,23 +27,23 @@ Use az command to create an Azure App, such as "az webapp up --sku f1 -n udacity
 1. Open Azure Cloud Shell;
 2. Create virtual envrionment in Cloud Shell, such as "python3 -m venv ~/.venv";
 3. Activate the virtual envrionment, such as "source ~/.venv/bin/activate";
-<img src="https://user-images.githubusercontent.com/13649985/107021396-f129af00-6808-11eb-9006-d9918e36f2ce.jpg" height="100" />
+<img src="https://user-images.githubusercontent.com/13649985/107021396-f129af00-6808-11eb-9006-d9918e36f2ce.jpg" height="150" />
 4. Project cloned into Azure Cloud Shell
-<img src="https://user-images.githubusercontent.com/13649985/107021375-ecfd9180-6808-11eb-8117-e514e7d5805c.jpg" height="100" />
+<img src="https://user-images.githubusercontent.com/13649985/107021375-ecfd9180-6808-11eb-8117-e514e7d5805c.jpg" height="150" />
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
 * Output of a test run
-<img src="https://user-images.githubusercontent.com/13649985/107021398-f25adc00-6808-11eb-867a-70373c348038.jpg" height="100" />
+<img src="https://user-images.githubusercontent.com/13649985/107021398-f25adc00-6808-11eb-867a-70373c348038.jpg" height="150" />
 
 * Successful deploy of the project in Azure Pipelines.
-<img src="https://user-images.githubusercontent.com/13649985/107022241-03581d00-680a-11eb-985a-4492f7bc3265.jpg" height="100" />
+<img src="https://user-images.githubusercontent.com/13649985/107022241-03581d00-680a-11eb-985a-4492f7bc3265.jpg" height="150" />
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
 * Successful prediction from deployed flask app in Azure Cloud Shell. 
 The output should look similar to this:
-<img src="https://user-images.githubusercontent.com/13649985/107022384-31d5f800-680a-11eb-95ed-6b5bae735f65.jpg" height="50" />
+<img src="https://user-images.githubusercontent.com/13649985/107022384-31d5f800-680a-11eb-95ed-6b5bae735f65.jpg" height="20" />
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
